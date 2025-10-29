@@ -79,4 +79,5 @@ int main()
                 printf("\nInvalid choice");
         }
     }
+    return 0;
 }
